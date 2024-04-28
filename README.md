@@ -27,3 +27,13 @@ Then click Add people (green button).
 In the search field, you can type the name of person you want to invite, click the name of the person from the list.
 Then click Add NAME to REPOSITORY.
 The person will receive a notification via email with an invitation to the repository that the person has to accept in order to have access to. 
+
+e. What is the difference between git and GitHub?
+
+Git is a software that you install locally on the system, it is maintained by linux and is focused in version control. GitHub is a service, is a GUI and is hosted on the web, is maintain by Microsoft and is focused on centralize source code hosting, it is hosting service for Git.   
+
+f. What does git diff do?
+
+This command allow you to see, compare and understand changes in projects, it show changes between commits, commit and working tree and more
+
+
