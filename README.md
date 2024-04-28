@@ -34,6 +34,14 @@ Git is a software that you install locally on the system, it is maintained by li
 
 f. What does git diff do?
 
-This command allow you to see, compare and understand changes in projects, it show changes between commits, commit and working tree and more
+This command allow you to see, compare and understand changes in projects, it show changes between commits, commit and working tree and more.
+
+g. What is the main branch?
+
+It is the initial development branch in Git. It is the default branch of a repository. Is basically the top copy. 
+
+h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+
+There should not be any direct commit to the main branch. It is consider a bad practice.
 
 
